@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain and WEB3
 - 🌱 I’m currently learning Javascript, Solidity, The Graph, GraphQL, Chainlink
 - 💞️ I’m looking to collaborate on Solidity based projects
-- 📫 How to reach me - sametkaymaz.25@gmail.com -
+- 📫 How to reach me - sametkaymaz.25@gmail.com - linkedin.com/in/samet-kaymaz-b56581144/
 - I publish articles in Medium about these topics, you can check medium.com/@sametkaymaz.25
 * Consensus Mechanisms and Key Concepts
 * Technology Behind Bitcoin: Blockchain 
